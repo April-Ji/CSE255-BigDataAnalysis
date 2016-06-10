@@ -1,6 +1,4 @@
-# Name: Shengnan Ji
-# Email: shj047@eng.ucsd.edu
-# PID: A53089609
+# I am learning GIT
 
 # coding: utf-8
 # In[1]:
