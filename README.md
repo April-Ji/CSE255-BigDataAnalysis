@@ -1,10 +1,3 @@
-# Test
+# CSE 255 Homework Folder
 
-1abcdefg
-222222222222222222222222222222222222222abcdefg
-3abcdefg
-4abcdefg
-5abcdefg
-6abcdefg
-77777777777777777777777777777777abcdefg
-8abcdefg
+This repository holds the homeworks of CSE 255: Big data analysis using Spark. 
